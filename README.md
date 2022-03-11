@@ -4,7 +4,7 @@ I'm Ndatimana Gilbert a self-taught passionate Full-stack developer from Rwanda
 
 # 💹 Stats
 [![Gilbertelnino's github stats](https://github-readme-stats.vercel.app/api?username=Gilbertelnino)](https://github.com/Gilbertelnino)
-[![Gilbertelnino to languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilbertelnino&theme=buefy&layout=compact)](https://github.com/Gilbertelnino)
+[![Gilbertelnino to languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilbertelnino)](https://github.com/Gilbertelnino)
 
 
 <!--
