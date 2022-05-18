@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ndatimana Gilbert a self-taught passionate Full-stack developer from Rwanda
+I'm Ndatimana Gilbert a passionate Full-stack developer from Rwanda
 
 # 💹 Stats
 [![Gilbertelnino's stats](https://github-readme-stats.vercel.app/api?username=Gilbertelnino&show_icons=true&theme=nord)](https://github.com/Gilbertelnino)
